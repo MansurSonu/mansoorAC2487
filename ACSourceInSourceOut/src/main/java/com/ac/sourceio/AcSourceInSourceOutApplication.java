@@ -1,0 +1,14 @@
+package com.ac.sourceio;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+
+public class AcSourceInSourceOutApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AcSourceInSourceOutApplication.class, args);
+	}
+
+}
